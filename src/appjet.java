@@ -16,7 +16,7 @@ class Jet extends JFrame{
 
 class DefaultHandle {
     public DefaultHandle() {
-        Jet jet = new Jet("An Appjet app");
+        Jet jet = new Jet("An Appjet app - Appjet Version 1.0.0");
         jet.show();
     }
 }
